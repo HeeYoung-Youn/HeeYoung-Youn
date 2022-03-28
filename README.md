@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 </p>
 
 #### Tools
@@ -46,6 +47,7 @@
 </p>
 
 #### OS
+
 <p>
   <img src="https://img.shields.io/badge/Mac-000000?style=flat-square&logo=Apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
@@ -54,8 +56,7 @@
 ### 🌱&nbsp;&nbsp;Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReduxSaga-999999?style=flat-square&logo=ReduxSaga&logoColor=white"/>
+  Modern Javascript Deep Dive 🦎
 </p><br/>
 
 ![HeeYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeYoung-Youn&show_icons=true&theme=noctis_minimus)
